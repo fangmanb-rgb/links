@@ -20,3 +20,8 @@ a:hover,a:focus-visible{background:color-mix(in srgb,var(--accent) 8%,transparen
 details{grid-column:1/-1}
 summary{cursor:pointer;padding:14px 16px;min-height:48px;font-weight:600}
 footer{margin-top:24px;text-align:center;font-size:.9rem}
+.actions{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:8px 0 12px}
+.btn{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;font-weight:600;padding:12px 22px;border-radius:12px;min-height:48px;font-size:1rem}
+@media (prefers-color-scheme:dark){.btn{color:#0c0a09}}
+.btn.alt{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.btn:focus-visible{outline:3px solid var(--fg);outline-offset:2px}
