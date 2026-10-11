@@ -213,7 +213,134 @@
           "added": "2026-10-11"
         }
       ]
+    },
+    {
+      "name": "Physical AI Podcasts",
+      "links": [
+        {
+          "title": "RoboPapers",
+          "url": "https://robopapers.substack.com/",
+          "desc": "Authors of new robot-learning papers explain their research.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "The Robot Report Podcast",
+          "url": "https://www.therobotreport.com/category/podcast/",
+          "desc": "Weekly robotics industry news, funding and deployments.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Safety Third: Autonomous Revolution",
+          "url": "https://podcasts.apple.com/us/podcast/id1652098018",
+          "desc": "Functional safety and standards for robots and autonomous vehicles.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Exploited: The Cyber Truth",
+          "url": "https://runsafesecurity.com/podcast/",
+          "desc": "RunSafe Security's show on securing embedded and critical systems.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "The Cognitive Revolution",
+          "url": "https://www.cognitiverevolution.ai/",
+          "desc": "Long-form interviews with AI builders and researchers.",
+          "added": "2026-10-11"
+        }
+      ]
+    },
+    {
+      "name": "More Physical AI Listening",
+      "links": [
+        {
+          "title": "Moonshots with Peter Diamandis",
+          "url": "https://www.youtube.com/playlist?list=PL1wpF5k0tdIve4idTp3-FX2ZY7ks_BKeU",
+          "desc": "Big-picture conversations on AI, robotics and exponential tech.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Researcher's Guide to Physical AI",
+          "url": "https://physicalaipodcast.co/",
+          "desc": "Short weekly episodes on physical AI research and benchmarks.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "CXOTalk",
+          "url": "https://www.cxotalk.com/episodes",
+          "desc": "Enterprise leaders on AI strategy, governance and risk.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "NVIDIA AI Podcast",
+          "url": "https://blogs.nvidia.com/ai-podcast/",
+          "desc": "NVIDIA's interviews on AI, simulation and robotics.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Automated with Brian Heater",
+          "url": "https://podcasts.apple.com/us/podcast/automated-with-brian-heater/id1837762221",
+          "desc": "Interviews with robotics and physical AI founders and researchers.",
+          "added": "2026-10-11"
+        }
+      ]
     }
   ],
-  "archive": []
+  "archive": [
+    {
+      "title": "The Robot Brains Podcast",
+      "url": "https://shows.acast.com/the-robot-brains",
+      "desc": "Pieter Abbeel's researcher interviews (back catalog; last episode 2023).",
+      "added": "2026-10-11",
+      "category": "Physical AI Podcasts"
+    },
+    {
+      "title": "RobTalk",
+      "url": "https://www.rob.co/en-us/resources/knowledge/podcast",
+      "desc": "RobCo's monthly show on robot autonomy and industrial deployment.",
+      "added": "2026-10-11",
+      "category": "Physical AI Podcasts"
+    },
+    {
+      "title": "Practical AI",
+      "url": "https://practicalai.fm/",
+      "desc": "Weekly Changelog show on applied AI, models and edge inference.",
+      "added": "2026-10-11",
+      "category": "Physical AI Podcasts"
+    },
+    {
+      "title": "Dream Machines (KQED)",
+      "url": "https://www.kqed.org/podcasts/dreammachines",
+      "desc": "KQED's conversations on what AI and robots mean for people.",
+      "added": "2026-10-11",
+      "category": "Physical AI Podcasts"
+    },
+    {
+      "title": "EE Times Current",
+      "url": "https://podcasts.apple.com/us/podcast/ee-times-current/id1432721126",
+      "desc": "Chips, sensors and hardware behind AI and edge computing.",
+      "added": "2026-10-11",
+      "category": "Physical AI Podcasts"
+    },
+    {
+      "title": "The MAD Podcast with Matt Turck",
+      "url": "https://podcasts.apple.com/us/podcast/the-mad-podcast-with-matt-turck/id1686238724",
+      "desc": "A venture investor's interviews on how AI gets built.",
+      "added": "2026-10-11",
+      "category": "Physical AI Podcasts"
+    },
+    {
+      "title": "Invest Like the Best, Ep. 465: Sergey Levine",
+      "url": "https://colossus.com/episode/building-general-physical-intelligence/",
+      "desc": "Single episode on general-purpose robot foundation models.",
+      "added": "2026-10-11",
+      "category": "Physical AI Podcasts"
+    },
+    {
+      "title": "The AI Daily Brief: Why the Future of AI Has a Body",
+      "url": "https://podcasts.apple.com/us/podcast/why-the-future-of-ai-has-a-body/id1680633614?i=1000731229241",
+      "desc": "Single short episode overviewing embodied AI and humanoids.",
+      "added": "2026-10-11",
+      "category": "Physical AI Podcasts"
+    }
+  ]
 }
