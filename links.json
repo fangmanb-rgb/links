@@ -1,0 +1,219 @@
+{
+  "categories": [
+    {
+      "name": "Space & Sky",
+      "links": [
+        {
+          "title": "Stellarium Web",
+          "url": "https://stellarium-web.org",
+          "desc": "A real-time planetarium of the night sky, right in your browser.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Object Tracer",
+          "url": "https://objecttracer.com",
+          "desc": "Fly around the solar system in an interactive 3D model.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "SpaceEngine",
+          "url": "https://spaceengine.org",
+          "desc": "A 1:1-scale universe simulator for exploring stars, planets and galaxies.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "NASA Image Library",
+          "url": "https://images.nasa.gov",
+          "desc": "Searchable archive of NASA photos, video and audio.",
+          "added": "2026-10-11"
+        }
+      ]
+    },
+    {
+      "name": "Live Planet",
+      "links": [
+        {
+          "title": "Zoom Earth",
+          "url": "https://zoom.earth",
+          "desc": "Near-real-time satellite imagery and weather of the whole planet.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Flightradar24",
+          "url": "https://flightradar24.com",
+          "desc": "Track live air traffic around the world.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Windy",
+          "url": "https://windy.com",
+          "desc": "Animated live map of wind, rain and storms.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Submarine Cable Map",
+          "url": "https://submarinecablemap.com",
+          "desc": "Map of the undersea cables that carry the internet.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Internet Live Stats",
+          "url": "https://internetlivestats.com",
+          "desc": "Live counters of what's happening online right now.",
+          "added": "2026-10-11"
+        }
+      ]
+    },
+    {
+      "name": "Maps",
+      "links": [
+        {
+          "title": "The True Size Of",
+          "url": "https://thetruesize.com",
+          "desc": "Drag countries around to see their real size without map distortion.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "OpenStreetMap",
+          "url": "https://openstreetmap.org",
+          "desc": "Free, volunteer-built map of the world.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Old Maps Online",
+          "url": "https://oldmapsonline.org",
+          "desc": "Search and browse historic maps by place and era.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "MapCrunch",
+          "url": "https://mapcrunch.com",
+          "desc": "Drop into a random Street View spot somewhere on Earth.",
+          "added": "2026-10-11"
+        }
+      ]
+    },
+    {
+      "name": "Wander from Home",
+      "links": [
+        {
+          "title": "WindowSwap",
+          "url": "https://window-swap.com",
+          "desc": "Look out a stranger's window somewhere in the world.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Virtual Vacation",
+          "url": "https://virtualvacation.us",
+          "desc": "Take virtual walks, drives and flights through cities worldwide.",
+          "added": "2026-10-11"
+        }
+      ]
+    },
+    {
+      "name": "Learn by Playing",
+      "links": [
+        {
+          "title": "Neal.fun",
+          "url": "https://neal.fun",
+          "desc": "Playful interactive experiments, games and visualizations.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Nicky Case",
+          "url": "https://ncase.me",
+          "desc": "Interactive explainers on game theory, trust and how systems work.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Gapminder",
+          "url": "https://gapminder.org",
+          "desc": "Fact-based tools showing what we get wrong about the world.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "World Bank Open Data",
+          "url": "https://data.worldbank.org",
+          "desc": "Free global development data, charts and indicators.",
+          "added": "2026-10-11"
+        }
+      ]
+    },
+    {
+      "name": "Books & Archives",
+      "links": [
+        {
+          "title": "Internet Archive",
+          "url": "https://archive.org",
+          "desc": "Huge free library of books, films, music, software and archived web pages.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Project Gutenberg",
+          "url": "https://gutenberg.org",
+          "desc": "70,000+ free public-domain ebooks.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Open Library",
+          "url": "https://openlibrary.org",
+          "desc": "A catalog page for every book, with many free to borrow.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Library of Congress",
+          "url": "https://loc.gov",
+          "desc": "Digital collections of the U.S. Library of Congress.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "DPLA",
+          "url": "https://dp.la",
+          "desc": "Digital Public Library of America: collections from U.S. libraries and museums.",
+          "added": "2026-10-11"
+        }
+      ]
+    },
+    {
+      "name": "Art & Museums",
+      "links": [
+        {
+          "title": "Google Arts & Culture",
+          "url": "https://artsandculture.google.com",
+          "desc": "Tour museums and see artworks up close from home.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "WikiArt",
+          "url": "https://wikiart.org",
+          "desc": "Encyclopedia of 250,000+ artworks across styles and eras.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "The Met Collection",
+          "url": "https://metmuseum.org",
+          "desc": "Explore the Metropolitan Museum of Art's open-access collection.",
+          "added": "2026-10-11"
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "links": [
+        {
+          "title": "Radiooooo",
+          "url": "https://radiooooo.com",
+          "desc": "Pick a country and a decade to hear the music of that time and place.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "Every Noise at Once",
+          "url": "https://everynoise.com",
+          "desc": "A scrollable map of thousands of music genres, with samples.",
+          "added": "2026-10-11"
+        }
+      ]
+    }
+  ],
+  "archive": []
+}
