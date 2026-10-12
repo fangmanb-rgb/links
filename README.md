@@ -7,6 +7,12 @@ Add an object to a category's `links` array (order = display priority):
 ```json
 {"title": "Example", "url": "https://example.com", "desc": "One-line description.", "added": "2026-10-11"}
 ```
+Optional `"via": "Name"` credits whoever suggested the link; it renders as a small muted "via Name" line and stays on the entry if it moves to `archive`:
+```json
+{"title": "Gazebo", "url": "https://gazebosim.org/home", "desc": "...", "added": "2026-10-12", "via": "Steve Henderson"}
+```
+Categories display sorted by link count (most first); ties keep their links.json order. To add a category, add `{"name": ..., "links": [...]}` anywhere in `categories`.
+
 Max 5 per category. If a category has more than 5, only the first 5 show; the overflow is shown in the Archive automatically (console warning) until you clean it up.
 
 ## Swap / replace a link

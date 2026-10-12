@@ -141,6 +141,46 @@
       ]
     },
     {
+      "name": "Robot Simulation & Tools",
+      "links": [
+        {
+          "title": "Gazebo",
+          "url": "https://gazebosim.org/",
+          "desc": "Open-source robot simulator with physics, sensors and ROS integration.",
+          "added": "2026-10-12",
+          "via": "Steve Henderson"
+        },
+        {
+          "title": "MuJoCo Playground",
+          "url": "https://playground.mujoco.org/",
+          "desc": "GPU-accelerated MuJoCo environments for training robot control policies.",
+          "added": "2026-10-12",
+          "via": "Steve Henderson"
+        },
+        {
+          "title": "MELS: Unitree Go1",
+          "url": "https://research.mels.ai/ide?mels=UnitreeGo1.qkazy",
+          "desc": "Browser-based simulation workspace loaded with a Unitree Go1 quadruped.",
+          "added": "2026-10-12",
+          "via": "Steve Henderson"
+        },
+        {
+          "title": "NVIDIA Omniverse",
+          "url": "https://www.nvidia.com/en-us/omniverse/",
+          "desc": "Libraries for digital twins and physically based robotics simulation.",
+          "added": "2026-10-12",
+          "via": "Steve Henderson"
+        },
+        {
+          "title": "Steve Henderson",
+          "url": "https://stevehenderson.github.io/",
+          "desc": "Personal site of Steve Henderson, Ph.D., on humans in the loop with AI agents.",
+          "added": "2026-10-12",
+          "via": "Steve Henderson"
+        }
+      ]
+    },
+    {
       "name": "Space & Sky",
       "links": [
         {
