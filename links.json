@@ -323,6 +323,17 @@
           "added": "2026-10-11"
         }
       ]
+    },
+    {
+      "name": "Physical AI Landscape",
+      "links": [
+        {
+          "title": "Airfold Humanoid Technology Map",
+          "url": "https://www.airfold.co/humanoid-technology-map/",
+          "desc": "Interactive map of companies and technologies across the humanoid robotics stack.",
+          "added": "2026-10-19"
+        }
+      ]
     }
   ],
   "archive": [
