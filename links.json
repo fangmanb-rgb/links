@@ -39,21 +39,21 @@
       "name": "More Physical AI Listening",
       "links": [
         {
-          "title": "Moonshots with Peter Diamandis",
-          "url": "https://www.youtube.com/playlist?list=PL1wpF5k0tdIve4idTp3-FX2ZY7ks_BKeU",
-          "desc": "Big-picture conversations on AI, robotics and exponential tech.",
-          "added": "2026-10-11"
+          "title": "All-In",
+          "url": "https://allin.com/",
+          "desc": "Chamath, Jason, Sacks and Friedberg on tech, AI, markets and policy.",
+          "added": "2026-10-25"
+        },
+        {
+          "title": "Dwarkesh Podcast",
+          "url": "https://www.dwarkesh.com/",
+          "desc": "Dwarkesh Patel's deeply researched interviews with AI researchers and builders.",
+          "added": "2026-10-25"
         },
         {
           "title": "Researcher's Guide to Physical AI",
           "url": "https://physicalaipodcast.co/",
           "desc": "Short weekly episodes on physical AI research and benchmarks.",
-          "added": "2026-10-11"
-        },
-        {
-          "title": "CXOTalk",
-          "url": "https://www.cxotalk.com/episodes",
-          "desc": "Enterprise leaders on AI strategy, governance and risk.",
           "added": "2026-10-11"
         },
         {
@@ -337,6 +337,22 @@
     }
   ],
   "archive": [
+    {
+      "title": "Moonshots with Peter Diamandis",
+      "url": "https://www.youtube.com/playlist?list=PL1wpF5k0tdIve4idTp3-FX2ZY7ks_BKeU",
+      "desc": "Big-picture conversations on AI, robotics and exponential tech.",
+      "added": "2026-10-11",
+      "category": "More Physical AI Listening",
+      "archived": "2026-10-25"
+    },
+    {
+      "title": "CXOTalk",
+      "url": "https://www.cxotalk.com/episodes",
+      "desc": "Enterprise leaders on AI strategy, governance and risk.",
+      "added": "2026-10-11",
+      "category": "More Physical AI Listening",
+      "archived": "2026-10-25"
+    },
     {
       "title": "The Robot Brains Podcast",
       "url": "https://shows.acast.com/the-robot-brains",
