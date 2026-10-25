@@ -45,10 +45,10 @@
           "added": "2026-10-25"
         },
         {
-          "title": "Dwarkesh Podcast",
-          "url": "https://www.dwarkesh.com/",
-          "desc": "Dwarkesh Patel's deeply researched interviews with AI researchers and builders.",
-          "added": "2026-10-25"
+          "title": "Moonshots with Peter Diamandis",
+          "url": "https://www.diamandis.com/podcast",
+          "desc": "Big-picture conversations on AI, robotics and exponential tech.",
+          "added": "2026-10-11"
         },
         {
           "title": "Researcher's Guide to Physical AI",
@@ -337,14 +337,6 @@
     }
   ],
   "archive": [
-    {
-      "title": "Moonshots with Peter Diamandis",
-      "url": "https://www.youtube.com/playlist?list=PL1wpF5k0tdIve4idTp3-FX2ZY7ks_BKeU",
-      "desc": "Big-picture conversations on AI, robotics and exponential tech.",
-      "added": "2026-10-11",
-      "category": "More Physical AI Listening",
-      "archived": "2026-10-25"
-    },
     {
       "title": "CXOTalk",
       "url": "https://www.cxotalk.com/episodes",
