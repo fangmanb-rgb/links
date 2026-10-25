@@ -39,12 +39,6 @@
       "name": "More Physical AI Listening",
       "links": [
         {
-          "title": "All-In",
-          "url": "https://allin.com/",
-          "desc": "Chamath, Jason, Sacks and Friedberg on tech, AI, markets and policy.",
-          "added": "2026-10-25"
-        },
-        {
           "title": "Moonshots with Peter Diamandis",
           "url": "https://www.diamandis.com/podcast",
           "desc": "Big-picture conversations on AI, robotics and exponential tech.",
@@ -57,15 +51,21 @@
           "added": "2026-10-11"
         },
         {
-          "title": "NVIDIA AI Podcast",
-          "url": "https://blogs.nvidia.com/ai-podcast/",
-          "desc": "NVIDIA's interviews on AI, simulation and robotics.",
-          "added": "2026-10-11"
-        },
-        {
           "title": "Automated with Brian Heater",
           "url": "https://podcasts.apple.com/us/podcast/automated-with-brian-heater/id1837762221",
           "desc": "Interviews with robotics and physical AI founders and researchers.",
+          "added": "2026-10-11"
+        },
+        {
+          "title": "All-In",
+          "url": "https://allin.com/",
+          "desc": "Chamath, Jason, Sacks and Friedberg on tech, AI, markets and policy.",
+          "added": "2026-10-25"
+        },
+        {
+          "title": "CXOTalk",
+          "url": "https://www.cxotalk.com/episodes",
+          "desc": "Enterprise leaders on AI strategy, governance and risk.",
           "added": "2026-10-11"
         }
       ]
@@ -338,10 +338,18 @@
   ],
   "archive": [
     {
-      "title": "CXOTalk",
-      "url": "https://www.cxotalk.com/episodes",
-      "desc": "Enterprise leaders on AI strategy, governance and risk.",
+      "title": "NVIDIA AI Podcast",
+      "url": "https://blogs.nvidia.com/ai-podcast/",
+      "desc": "NVIDIA's interviews on AI, simulation and robotics.",
       "added": "2026-10-11",
+      "category": "More Physical AI Listening",
+      "archived": "2026-10-25"
+    },
+    {
+      "title": "Dwarkesh Podcast",
+      "url": "https://www.dwarkesh.com/",
+      "desc": "Dwarkesh Patel's deeply researched interviews with AI researchers and builders.",
+      "added": "2026-10-25",
       "category": "More Physical AI Listening",
       "archived": "2026-10-25"
     },
